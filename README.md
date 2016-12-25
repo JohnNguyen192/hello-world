@@ -1,2 +1,1 @@
-# hello-world
-my first stuff on GitHub
+i'm JohnNguyen192 nick, hello everybody!
